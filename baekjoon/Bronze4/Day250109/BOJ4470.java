@@ -6,8 +6,7 @@ public class BOJ4470 {
     // 줄번호
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        int N = sc.nextInt();
-        sc.nextLine();
+        int N = Integer.parseInt(sc.nextLine());
         for (int i=1; i<=N; i++) {
             System.out.println(i + ". " + sc.nextLine());
         }
