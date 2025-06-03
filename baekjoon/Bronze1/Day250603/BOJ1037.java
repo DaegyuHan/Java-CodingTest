@@ -1,4 +1,4 @@
-package baekjoon.Bronze1.Day250528;
+package baekjoon.Bronze1.Day250603;
 
 import java.util.Arrays;
 import java.util.Scanner;
